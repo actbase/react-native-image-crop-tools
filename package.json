@@ -1,7 +1,7 @@
 {
   "name": "react-native-image-crop-tools",
   "title": "React Native Image Crop Tools",
-  "version": "1.6.2",
+  "version": "1.6.3",
   "description": "Native image crop tools with embeddable UI and on the fly aspect ratio switchin",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -37,7 +37,7 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "peerDependencies": {
-    "react": "^16.8.1",
+    "react": "*",
     "react-native": ">=0.59.0-rc.0 <1.0.x"
   },
   "devDependencies": {
